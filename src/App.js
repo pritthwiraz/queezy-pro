@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2><span>QEEZY</span>PRO</h2>
+      <h1><span className='4xl font-bold text-orange-500'>QUIZY</span> PRO</h1>
     </div>
   );
 }
