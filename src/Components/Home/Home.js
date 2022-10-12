@@ -8,7 +8,6 @@ const Home = () => {
     // console.log(quizes)
     return (
         <div>
-            <img src="../../../public/Quiz.jpg" alt="" />
             <div className='container mx-auto mt-7 grid grid-cols-1 md:grid-cols-4 gap-3 '>
            {
             quizes.map( quiz => <Quiz
